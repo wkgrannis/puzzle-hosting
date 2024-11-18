@@ -2,3 +2,4 @@
 "Simple Puzzle","Word1","Word2","Word3","Word4","Word5","Word6","Word7","Word8","Connection1","Connection2","Connection3","Connection4","Connection5","Connection6","Connection7","Connection8"
 "Simple Puzzle2","Word1","Word2","Word3","Word4","Word5","Word6","Word7","Word8","Connection1","Connection2","Connection3","Connection4","Connection5","Connection6","Connection7","Connection8"
 "Simple Puzzle3","Word1","Word2","Word3","Word4","Word5","Word6","Word7","Word8","Connection1","Connection2","Connection3","Connection4","Connection5","Connection6","Connection7","Connection8"
+"Simple Puzzle4","Word1","Word2","Word3","Word4","Word5","Word6","Word7","Word8","Connection1","Connection2","Connection3","Connection4","Connection5","Connection6","Connection7","Connection8"
